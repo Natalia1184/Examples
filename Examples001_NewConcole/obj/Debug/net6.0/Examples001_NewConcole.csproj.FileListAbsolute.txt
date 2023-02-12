@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\bin\Debug\net6.0\Examples001_NewConcole.exe
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\bin\Debug\net6.0\Examples001_NewConcole.deps.json
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\bin\Debug\net6.0\Examples001_NewConcole.runtimeconfig.json
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\bin\Debug\net6.0\Examples001_NewConcole.dll
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\bin\Debug\net6.0\Examples001_NewConcole.pdb
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.AssemblyInfo.cs
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.dll
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\refint\Examples001_NewConcole.dll
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.pdb
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\Examples001_NewConcole.genruntimeconfig.cache
+C:\Users\гоша\Desktop\Examples\Examples001_NewConcole\obj\Debug\net6.0\ref\Examples001_NewConcole.dll
